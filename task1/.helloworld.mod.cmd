@@ -1,1 +1,0 @@
-cmd_/home/yonatan/Desktop/drivers_learn/EX/eudyptula-challenges/task1/helloworld.mod := printf '%s\n'   helloworld.o | awk '!x[$$0]++ { print("/home/yonatan/Desktop/drivers_learn/EX/eudyptula-challenges/task1/"$$0) }' > /home/yonatan/Desktop/drivers_learn/EX/eudyptula-challenges/task1/helloworld.mod
