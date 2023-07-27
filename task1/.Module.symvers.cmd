@@ -1,0 +1,1 @@
+cmd_/home/yonatan/Desktop/drivers_learn/EX/eudyptula-challenges/task1/Module.symvers := sed 's/ko$$/o/' /home/yonatan/Desktop/drivers_learn/EX/eudyptula-challenges/task1/modules.order | scripts/mod/modpost -m -a  -o /home/yonatan/Desktop/drivers_learn/EX/eudyptula-challenges/task1/Module.symvers -e -i Module.symvers   -T -
